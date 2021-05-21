@@ -19,16 +19,16 @@
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Test",
-      "day": " May 7th at 12:30pm",
-      "reminder": false
+      "text": "Intterview",
+      "day": "May 30th at 3:30pm",
+      "reminder": true,
+      "id": 7
     },
     {
       "text": "Test2",
       "day": "May 7th at 3:40pm",
       "reminder": true,
-      "id": 5
+      "id": 8
     }
   ]
 }
